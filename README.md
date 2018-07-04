@@ -9,6 +9,7 @@ $ git clone https://github.com/JJJYY/mpvue-iview.git
 $ git clone https://github.com/wux-weapp/wux-weapp.git
 $ cnpm install
 $ cnpm run dev
+$ 把helper文件夹拷贝到mpvue-iview-wux-weapp-demo\dist\wux-weapp\dist中
 ```
 
 
