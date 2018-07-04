@@ -5,6 +5,8 @@
 ``` bash
 $ git clone https://github.com/blackjack0v0/mpvue-iview-wux-weapp-demo 
 $ cd mpvue-iview-wux-weapp-demo
+$ git clone https://github.com/JJJYY/mpvue-iview.git  
+$ git clone https://github.com/wux-weapp/wux-weapp.git
 $ cnpm install
 $ cnpm run dev
 ```
